@@ -42,7 +42,27 @@ i.e. total 3 steps are done.
 ```
 <variable name>[<index number>] = <value of choosen data type>
 ```
+```
+package manicrover;
 
+public class Arry {
+
+  public static void main(String[] args) {
+
+    boolean[] list;
+
+    list = new boolean[2];
+
+    list[1] = true;
+
+    System.out.println(list[0]);
+
+  }
+
+}
+
+
+```
 
 
 
