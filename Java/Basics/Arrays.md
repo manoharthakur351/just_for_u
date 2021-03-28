@@ -42,6 +42,7 @@ i.e. total 3 steps are done.
 ```
 <variable name>[<index number>] = <value of choosen data type>
 ```
+_**example**_
 ```
 package manicrover;
 
