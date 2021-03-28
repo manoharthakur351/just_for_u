@@ -35,6 +35,16 @@ i.e. total 3 steps are done.
 ```
 <Data type> <variable> ;
 ```
+```
+<variable> = new <data type>[<choose size of arry>];
+```
+
+```
+<variable name>[<index number>] = <value of choosen data type>
+```
+
+
+
 
 
 
