@@ -13,7 +13,7 @@
 
 1. all in one
 
-in this method (all 3 steps)[https://github.com/manoharthakur351/just_for_u/blob/main/Java/Basics/Arrays.md#3-steps-to-make-an-array] are done at a time.
+in this method [all 3 steps](https://github.com/manoharthakur351/just_for_u/blob/main/Java/Basics/Arrays.md#3-steps-to-make-an-array) are done at a time.
 ```
 package manicrover;
 
