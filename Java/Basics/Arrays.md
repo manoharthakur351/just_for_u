@@ -1,5 +1,7 @@
 # Arrays
 
+
+
 ## 3 steps to make an array.
 
 1. declaration.
@@ -35,3 +37,12 @@ i.e. total 3 steps are done.
 
 
 3. here in first step we declare and allocate an initialise in 2nd step.
+
+**syntax**
+```
+<data type> [] <variable> = new <Data type>[<size of array>]
+```
+
+```
+char[] pass = new char[3];
+```
