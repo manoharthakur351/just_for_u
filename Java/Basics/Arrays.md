@@ -28,3 +28,10 @@ public class Arry {
 
 2. in this method first we declare a array then allocate it to a memory location and then finally we initialise it.
 i.e. total 3 steps are done.
+
+```
+```
+
+
+
+3. here in first step we declare and allocate an initialise in 2nd step.
