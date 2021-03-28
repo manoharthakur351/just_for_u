@@ -36,18 +36,26 @@ i.e. total 3 steps are done.
 
 
 
-### 3. here in first step we declare and allocate an initialise in 2nd step.
-1. 
+### 3. two step method.
+
+in first step we declare and allocate an initialise in 2nd step.
+
 
 ```
 <data type> [] <variable> = new <Data type>[<size of array>]
 ```
-2. 
+
 ```
 <variable>[<index>] = <value of choosen Data type>;
 ```
 
 _**example**_
 ```
-char[] pass = new char[3];
+    char[] pass = new char[3];
+
+    pass[0]='a';
+
+    pass[1]='b';
+
+    pass[2]='c';
 ```
