@@ -11,7 +11,7 @@
 
 ## 3 ways to make Arrays.
 
-1. all in one
+### 1. all in one
 
 in this method [all 3 steps](https://github.com/manoharthakur351/just_for_u/blob/main/Java/Basics/Arrays.md#3-steps-to-make-an-array) are done at a time.
 ```
@@ -28,7 +28,7 @@ public class Arry {
 
 ```
 
-2. in this method first we declare a array then allocate it to a memory location and then finally we initialise it.
+### 2. in this method first we declare a array then allocate it to a memory location and then finally we initialise it.
 i.e. total 3 steps are done.
 
 ```
@@ -36,13 +36,18 @@ i.e. total 3 steps are done.
 
 
 
-3. here in first step we declare and allocate an initialise in 2nd step.
+### 3. here in first step we declare and allocate an initialise in 2nd step.
+1. 
 
-**syntax**
 ```
 <data type> [] <variable> = new <Data type>[<size of array>]
 ```
+2. 
+```
+<variable>[<index>] = <value of choosen Data type>;
+```
 
+_**example**_
 ```
 char[] pass = new char[3];
 ```
