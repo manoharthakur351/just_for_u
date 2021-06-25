@@ -13,6 +13,6 @@ t.speed(100)
 
 while True:
 	t.circle(100)
-	t.rt(5)
-	t.fd(10)
+	t.rt(1)
+	t.fd(2)
 	t.down()
