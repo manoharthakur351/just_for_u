@@ -1,0 +1,7 @@
+l = ["apple","mango","banana","grapes",
+	  "orange","choclate","mint","pies",
+	  "toys"]
+# enumerate function return pair of (index and item)
+for index, item in enumerate(l):
+	if index % 2 == 0:
+		print(item)
