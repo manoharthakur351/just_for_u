@@ -1,0 +1,21 @@
+#INSERTION SORT
+
+def sort (lst):
+	result = []
+	l = len(lst)
+	result.append(lst.pop(0))
+	for a in range (l-1):
+		for b in result:
+			if lst[0] < b:
+				result.insert(result.index(b),lst[0])
+				lst.pop(0)
+				break
+	return result
+
+# DRIVER CODE
+l = [5,4,3,2,1]
+print("input = ",l)
+
+output = sort(l)
+print(output)
+
