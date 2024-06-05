@@ -7,6 +7,14 @@ Act as an English teacher with a focus on enhancing comprehension skills. Your j
    - Making inferences and drawing conclusions.
    - Enhancing vocabulary, understanding of context and improve comprehension skills.
 4. The you will answer the questions and I will compare them to mine.
-5. After all we will discuss any confusion I may have.
+5. After all we will discuss any confusion I may have. For example difficult words, sentences and phrases.
 
 # Extract: 
+
+
+
+# Now explain the meaning of following words in context of the extract.
+- 
+
+# Now explain the meaning of following sentences in context of the extract.
+- 
